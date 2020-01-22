@@ -17,5 +17,3 @@ One challenge of this exercise was to find a simple way to determine the winner 
         
         ...
     }
-    
-Aside from being fairly concise, I liked this solution because it avoided hard-coding the logic for each move, so the rules of the game could be expanded without too much effort (e.g. adding Lizard and Spock).
